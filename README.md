@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @winddd
+- 👋 Hi, I’m Jian.
 - 👀 I’m interested in computer systems and system verification.
 
 <!---
